@@ -4,6 +4,6 @@
 инструкция по запуску:
 
 ```%bash
-https://github.com/SofiaVolk/tarantool_test.git
+git clone https://github.com/SofiaVolk/tarantool_test.git
 ./run.sh
 ```
