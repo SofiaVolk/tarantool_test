@@ -1,5 +1,5 @@
 language: python
 python:
     - "3.6"
-install: pip install pytest
+install: pip install requests pytest
 script: pytest
