@@ -7,3 +7,4 @@
 git clone https://github.com/SofiaVolk/tarantool_test.git
 ./run.sh
 ```
+
