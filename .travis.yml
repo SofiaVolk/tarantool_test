@@ -6,7 +6,7 @@ services:
   
 before_install:
 - docker build -t test .
-- docker run -p 8080:8080 test
+- docker run -d -p 8080:8080 test
 
 python:
     - "3.6"
